@@ -1,2 +1,3 @@
 # websites
-for college purpose
+for the mits internship
+
